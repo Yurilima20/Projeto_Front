@@ -12,6 +12,8 @@ do curso versionamento de código com Git e GitHub da DIO[https://www.dio.me/]
 |Aulas | Resumos |
 |-------|---------|
 | Gravando alterações no Repositório local | [Resumos]()|
+| aula 2 | [Resumos]()|
+| aula 3 | [Resumos]()|
 
 ```
 git init 
